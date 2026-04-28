@@ -114,7 +114,7 @@ This repository will continue to be updated as I work on more advanced cybersecu
 ## 👨‍💻 Author
 
 **Nitesh Verma (Cyber Nitesh)**
-Cyber Security Enthusiast | Python Developer
+Cyber Security Enthusiast | Ethical Hacker
 
 ---
 
