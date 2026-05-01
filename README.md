@@ -803,7 +803,6 @@ Status: ✅ Successfully Completed
 
 ## 👨‍💻 Author
 
-<<<<<<< HEAD
 **Nitesh Verma (Cyber Nitesh)**
 Cyber Security Enthusiast | Ethical Hacker
 =======
