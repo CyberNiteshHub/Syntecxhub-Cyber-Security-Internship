@@ -814,7 +814,6 @@ Cyber Security Enthusiast | Python Developer | Ethical Hacker in Training
 - 💼 LinkedIn: [Nitesh Verma](https://www.linkedin.com/in/nitesh-verma-4ba443363)
 - 🌐 Portfolio: [Nitesh Verma Portfolio](https://cyberniteshportfolio.netlify.app)
 - 📧 Email: niteshkumar3133845@gmail.com
->>>>>>> 4689e52 (Updated README file with improvements)
 
 ---
 
