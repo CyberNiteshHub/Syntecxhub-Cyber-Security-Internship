@@ -65,12 +65,12 @@
 ║                                                                          ║
 ║   WEEK 1              WEEK 2             WEEK 3              WEEK 4      ║
 ║                                                                          ║
-║  🔍 Port Scanner ──► 🔐 Encrypted  ──► 🕷️ Web Vuln    ──► 📊 CVE        ║
+║  🔍 Port Scanner ──► 🔐 Encrypted  ──► 🕷️ Web Vuln    ──► 📊 CVE       ║
 ║     + GUI               Chat App          Scanner              Scanner   ║
-║     + PDF Report        + E2E Encryption  + XSS Detection      + CVSS   ║
+║     + PDF Report        + E2E Encryption  + XSS Detection      + CVSS    ║ 
 ║                                                                          ║
-║  Socket + Tkinter    Socket + Crypto    BeautifulSoup       NVD API +   ║
-║  ReportLab           Threading          Requests + GUI      ReportLab   ║
+║  Socket + Tkinter    Socket + Crypto    BeautifulSoup       NVD API +    ║
+║  ReportLab           Threading          Requests + GUI      ReportLab    ║
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
@@ -191,16 +191,16 @@ python scanner.py
 **🏗️ Architecture:**
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│                    ENCRYPTED CHAT SYSTEM                      │
-│                                                               │
-│   CLIENT 1              SERVER               CLIENT 2         │
-│      │                     │                    │             │
+│                    ENCRYPTED CHAT SYSTEM                     │
+│                                                              │
+│   CLIENT 1              SERVER               CLIENT 2        │
+│      │                     │                    │            │
 │   Encrypt ──► Send ──► Receive ──► Broadcast ──► Decrypt     │
-│      │                     │                    │             │
+│      │                     │                    │            │
 │   Decrypt ◄── Recv ◄── Receive ◄── Broadcast ◄── Encrypt     │
-│                                                               │
+│                                                              │
 │   Algorithm: AES/DES  |  Key Exchange: Secure Share          │
-│   Threading: Per-client handler thread on server              │
+│   Threading: Per-client handler thread on server             │
 └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -376,7 +376,7 @@ python scanner.py
 │  3. Parse & Filter Results                          │
 │             │                                       │
 │     ┌───────┼───────┐                               │
-│  🔴 Crit  🟠 High  🟡 Med  🟢 Low                  │
+│  🔴 Crit  🟠 High  🟡 Med  🟢 Low                 │
 │             │                                       │
 │             ▼                                       │
 │  4. Calculate CVSS v3.1 Scores                      │
@@ -467,16 +467,16 @@ python scanner.py
 ╔══════════════════════════════════════════════════════════════════╗
 ║                    SKILL PROGRESSION CHART                       ║
 ╠══════════════════════════╦═══════════════════════════════════════╣
-║ Network Programming      ║ ████████████████████ 100%            ║
-║ Socket Client-Server     ║ ████████████████████ 100%            ║
-║ Cryptography & AES       ║ █████████████████░░░  85%            ║
-║ GUI Dev (Tkinter)        ║ ████████████████████ 100%            ║
-║ Web Scraping / Parsing   ║ ████████████████████ 100%            ║
-║ XSS / Vuln Detection     ║ ██████████████████░░  90%            ║
-║ CVE / CVSS Assessment    ║ ████████████████████ 100%            ║
-║ PDF Report Generation    ║ ████████████████████ 100%            ║
-║ Multi-Threading Python   ║ █████████████████░░░  85%            ║
-║ Security Documentation   ║ ████████████████████ 100%            ║
+║ Network Programming      ║ ████████████████████ 100%             ║
+║ Socket Client-Server     ║ ████████████████████ 100%             ║
+║ Cryptography & AES       ║ █████████████████░░░  85%             ║
+║ GUI Dev (Tkinter)        ║ ████████████████████ 100%             ║
+║ Web Scraping / Parsing   ║ ████████████████████ 100%             ║
+║ XSS / Vuln Detection     ║ ██████████████████░░  90%             ║ 
+║ CVE / CVSS Assessment    ║ ████████████████████ 100%             ║
+║ PDF Report Generation    ║ ████████████████████ 100%             ║
+║ Multi-Threading Python   ║ █████████████████░░░  85%             ║
+║ Security Documentation   ║ ████████████████████ 100%             ║
 ╚══════════════════════════╩═══════════════════════════════════════╝
 ```
 
@@ -608,13 +608,13 @@ PDF          Client       XSS          CVSS
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
-║              🏅 INTERNSHIP CERTIFICATE DETAILS                ║
+║              🏅 INTERNSHIP CERTIFICATE DETAILS               ║
 ╠═══════════════════════════════════════════════════════════════╣
 ║  Organization  :  SyntecxHub                                  ║
 ║  Program       :  Virtual Cyber Security Internship           ║
 ║  Duration      :  March 2026 – April 2026                     ║
 ║  Mode          :  Remote                                      ║
-║  Status        :  ✅ Successfully Completed                   ║
+║  Status        :  ✅ Successfully Completed                  ║
 ║  Badge ID      :  SH07CNGP7SEsbnK                             ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
